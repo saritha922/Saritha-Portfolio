@@ -289,7 +289,7 @@ const projects = [
 const education = [
   {
     title: "Bachelor of Technology — Computer Science & Engineering",
-    place: "Your College Name",
+    place: "St.Mary's Group of Institutions Guntur for Women",
     date: "Completed · 2026",
     detail: "B.Tech in CSE"
   },
